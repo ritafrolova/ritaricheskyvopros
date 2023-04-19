@@ -1,0 +1,154 @@
+a:visited{
+    color: #3D3939;
+}
+
+a:link{
+    color: #3D3939;
+}
+
+
+
+    .create-account-block{
+    width: 250px;
+    border-radius: 10px;
+    background-color: white;
+    position: fixed;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    display: none;
+        
+}
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+background: #FFAC4D;
+width: 250px;
+height: 45px;
+border-radius: 10px;
+color: white;
+font-size: 20px;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+.create-account-str1{
+ padding-top: 18px;
+ padding-left: 12px;
+ border-radius: 20px;
+
+}
+.create-account-str{
+padding-left: 12px;
+padding-top: 5px;
+}
+.create-account-str3{
+    padding-left: 12px;
+    padding-top: 15px;
+    }
+
+
+.create-account-input{
+    width: 210px;
+    height: 20px;
+    background-color: #dad5d5;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.create-account-input::placeholder{
+    color: #494747 !important;
+}
+
+.i-agree{
+    padding-top: 6px;
+    padding-left: 12px;
+    font-size: 12px;
+    color: #3D3939;
+    font-family: 'Inter', sans-serif;
+    font-weight: 0;
+}
+.create{
+    color: white;
+    margin-top: 10px;
+    width: 140px;
+    height: 35px;
+    margin-left: 55px;
+    background-color: #FFAC4D;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
+.have-an-account{
+    font-size: 13px;
+    color: #3D3939;
+    font-family: 'Inter', sans-serif;
+    font-weight: 0;
+    padding-top: 7px;
+    padding-left: 16px;
+}
+.block{
+    margin: 20px;
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: white;
+    position: fixed;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    display: none;
+}
+.header-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFAC4D;
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    }
+.input{
+    width: 210px;
+    height: 20px;
+    background-color: #dfdada;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.str1{
+    padding-top: 15px;
+    padding-left: 12px;
+}
+.str2{
+    padding-left: 12px;
+    padding-top: 10px;
+}
+.forget-password{
+    padding-top: 6px;
+    padding-left: 12px;
+    font-size: 12px;
+    color: #3D3939;
+    font-family: 'Inter', sans-serif;
+    font-weight: 0;
+}
+.login{
+    color: white;
+    margin-top: 10px;
+    width: 140px;
+    height: 35px;
+    margin-left: 55px;
+    background-color: #FFAC4D;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+}
